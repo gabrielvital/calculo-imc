@@ -22,7 +22,7 @@ elif imcfinal <= 29.99:
     print ("Você está acima do peso.")
 
 elif imcfinal <= 34.99:
-    print ("Você está com obeso.")
+    print ("Você está obeso.")
 
 elif imcfinal <= 39.99:
     print ("Você está com obesidade severa")
